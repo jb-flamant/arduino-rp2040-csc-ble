@@ -12,3 +12,4 @@
 
 - [1] [Cycling Speed and Cadence Profile 1.0](https://www.bluetooth.com/specifications/specs/cycling-speed-and-cadence-profile-1-0/)
 - [2] [Cycling Speed and Cadence Service 1.0](https://www.bluetooth.com/specifications/specs/cycling-speed-and-cadence-service-1-0/)
+- [3] [FFT](https://docs.scipy.org/doc/scipy/tutorial/fft.html#fast-fourier-transforms)
